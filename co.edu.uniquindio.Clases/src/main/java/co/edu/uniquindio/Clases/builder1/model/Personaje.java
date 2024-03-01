@@ -8,6 +8,9 @@ public class Personaje {
     private String tipoPeinado;
     private String genero;
 
+    public Personaje() {
+    }
+
     public Personaje(String nombre,
                      String raza,
                      String edad,
